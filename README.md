@@ -3,20 +3,7 @@
 
 This project is a web application for detecting online sexism in text using a trained machine learning model. The application is built using Flask and TensorFlow and provides a simple web interface for users to input text and receive predictions.
 
-## Project Structure
 
-```
-your_project/
-├── app.py                # Main Flask application
-├── model/
-│   └── model.py          # Model loading and preprocessing
-├── templates/
-│   └── index.html        # HTML template for the web interface
-├── static/
-│   └── styles.css        # CSS for styling the web interface
-├── requirements.txt      # Dependencies
-└── README.md             # This readme file
-```
 
 ## Installation
 
